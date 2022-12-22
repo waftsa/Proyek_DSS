@@ -1,16 +1,13 @@
-# analytic-hierarchy-process
-Simple decision support system application with AHP method.
+# PROYEK DSS
+## SPK Penerima Bantuan PKH melalui Data Atribut Rumah Tangga Menggunakan Metode AHP
 
-## Installation
-- create new database in MySQL server (phpMyAdmin)
-- edit file config.php
-- import database/database.sql into your new database
-- run your website
 
-## Screenshot
+## Anggota Kelompok
+- 140810190035 - M. Bagus Syahrally
+- 140810200017 - M. Keenan
+- 140810200021 - Rfiqi Akmal F. 
+- 140810200055 - Wafa Tsabita
+- 140810229005 - Andrian
 
-<img src="screenshot/1.png" alt="halaman kriteria" style="width: 250px;"/>
 
-<img src="screenshot/2.png" alt="matriks nilai kriteria" style="width: 250px;"/>
 
-<img src="screenshot/3.png" alt="hasil perhitungan" style="width: 250px;"/>
